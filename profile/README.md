@@ -18,6 +18,6 @@ FloppyBot consists of multiple components:
 [floppybot]: https://github.com/rgunti/floppybot
 [floppybot-ac]: https://github.com/rGunti/FloppyBot-AdminConsole
 [floppybot-ss]: https://github.com/rGunti/FloppyBot-StreamSource
-[img-floppybot]: https://img.shields.io/badge/FloppyBot-gray?logo=.net
+[img-floppybot]: https://img.shields.io/badge/FloppyBot-gray?logo=gnometerminal
 [img-floppybot-ac]: https://img.shields.io/badge/Admin_Console-gray?logo=googlechrome
 [img-floppybot-ss]: https://img.shields.io/badge/Stream_Source-gray?logo=obsstudio
