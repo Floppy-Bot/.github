@@ -11,7 +11,7 @@ FloppyBot consists of multiple components:
 - [![FloppyBot Admin Console][img-floppybot-ac]][floppybot-ac]: A web UI for users to manage FloppyBot
 - [![FloppyBot Stream Source][img-floppybot-ss]][floppybot-ss]: Browser source designed for OBS
 
-[floppybot]: https://github.com/rgunti/floppybot
+[floppybot]: https://github.com/rGunti/FloppyBot
 [floppybot-ac]: https://github.com/rGunti/FloppyBot-AdminConsole
 [floppybot-ss]: https://github.com/rGunti/FloppyBot-StreamSource
 [img-floppybot]: https://img.shields.io/badge/FloppyBot-gray?logo=gnometerminal
