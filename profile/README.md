@@ -25,10 +25,9 @@ streamer [pinsrlTrex](https://twitch.tv/pinsrltrex) but has since been extended 
 
 FloppyBot consists of multiple components:
 
-- [Backend](https://github.com/rGunti/FloppyBot): The actual core of FloppyBot ("the backend")
-- [Admin Console](https://github.com/rGunti/FloppyBot-AdminConsole): A web UI for users to manage FloppyBot
-- [StreamSource](https://github.com/rGunti/FloppyBot-StreamSource): Browser source designed for OBS
-- [Legacy Admin Console](https://gitlab.com/rGunti/pinsrbot-admin-console): The legacy frontend for FloppyBot, to be replaced by the new FloppyBot Admin Console
+- [Backend][floppybot]: The actual core of FloppyBot ("the backend")
+- [Admin Console][floppybot-ac]: A web UI for users to manage FloppyBot
+- [StreamSource][floppybot-ss]: Browser source designed for OBS
 
 ---
 
