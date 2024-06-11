@@ -21,7 +21,7 @@ streamer [pinsrlTrex](https://twitch.tv/pinsrltrex) but has since been extended 
 
 ---
 
-## Other repositories
+## Repositories
 
 FloppyBot consists of multiple components:
 
